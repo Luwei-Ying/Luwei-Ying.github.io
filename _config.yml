@@ -1,0 +1,13 @@
+# Site settings
+title: Luwei Ying
+email: luwei.ying@wustl.edu
+description: > # this means to ignore newlines until "baseurl:"
+  Ph.D. Candidate in the Department of Political Scieence at WUSTL.
+  International Relations and Political Methodology. 
+# baseurl: "/" # the subpath of your site, e.g. /blog/
+url: "Luwei-Ying.github.io" # the base hostname & protocol for your site
+github_username:  Luwei-Ying
+
+# Build settings
+markdown: kramdown
+theme: minima
