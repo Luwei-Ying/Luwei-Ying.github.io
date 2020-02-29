@@ -7,6 +7,10 @@ description: > # this means to ignore newlines until "baseurl:"
 url: "Luwei-Ying.github.io" # the base hostname & protocol for your site
 github_username:  Luwei-Ying
 
+permalink: /blog/:year/:month/:title.html
+gems:
+  - jekyll-sitemap
+  
 # Build settings
 markdown: kramdown
 theme: minima
