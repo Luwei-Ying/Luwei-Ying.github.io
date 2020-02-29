@@ -11,4 +11,4 @@ Seigle Hall 277\\
 St. Louis, Missouri 63130
 
 ## E-mail
-\faEnvelope luwei.ying@wustl.edu
+luwei.ying@wustl.edu
