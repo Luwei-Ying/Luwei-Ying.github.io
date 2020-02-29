@@ -4,7 +4,7 @@ title: Teaching
 permalink: "/teaching/"
 ---
 
-## Assistant to Instructor, Washington University in St. Louis
+## Teaching Assistant, Washington University in St. Louis
 * Graduate Level
 	* Quantitative Political Methodology I (Guillermo Rosas), Spring 2020
 	* Math Camp (Jacob M. Montgomery), Summar 2019
