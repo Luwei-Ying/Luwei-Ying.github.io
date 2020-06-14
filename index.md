@@ -2,7 +2,7 @@
 layout: default
 ---
 
-<img align="left" src="files/portrait2.jpg" hspace="20"  width="240" height="350" >
+<img align="right" src="files/portrait2.jpg" hspace="20"  width="261" height="348" >
 
 <p>I am a Fourth year Ph.D. student of Political Science at Washington University in St. Louis. I study international relations (conflict) and political methodology. Using machine learning, text analysis, and spatial analysis, I seek to better understand the strategy of violent groups in executing attacks and pursuing broader impact.</p>
 
