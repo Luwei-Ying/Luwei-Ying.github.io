@@ -3,7 +3,7 @@ layout: page
 title: Contact
 permalink: "/contact/"
 ---
-<img align="left" src="files/portrait3_circle.png" hspace="20"  width="200" height="200" >
+<img align="right" src="files/circle2.png" hspace="20"  width="200" height="200" >
 
 ## Address
 Washington University in St. Louis \\
