@@ -16,4 +16,3 @@ permalink: "/research/"
 * Inferring Concepts from Topics: Towards Procedures for Validating Topics as Measures (with Jacob M. Montgomery and Brandon M. Stewart)
 
 * Religiosity and Secularism: A Text-as-Data Approach to Recover Jihadist Groups' Rhetorical Strategies
-
