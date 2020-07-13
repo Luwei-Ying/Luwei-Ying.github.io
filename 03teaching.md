@@ -9,7 +9,7 @@ permalink: "/teaching/"
 
 	* Quantitative Political Methodology I (Guillermo Rosas), Spring 2020
 
-	* Math Camp (Jacob M. Montgomery), Summer 2019
+	* Math Camp (Jacob M. Montgomery), Summer 2019/2020
 
 
 * Undergraduate Level
