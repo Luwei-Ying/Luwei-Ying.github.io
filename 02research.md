@@ -4,11 +4,12 @@ title: Research
 permalink: "/research/"
 ---
 
+## Publications
+* Carter, David B. and Luwei Ying. Forthcoming. ``The Gravity of Transnational Terrorism." \textit{Journal of Conflict Resolution}
+
 <!-- +## Invited to Revise and Resubmit or Under Review+ -->
 ## Under Review
 * Govern the Ungoverned: How State Presence Leads to Civil Conflict, Revise and Resubmit
-
-* The Gravity of Transnational Terrorism (with David B. Carter), Revise and Resubmit
 
 * Historical Border Instability and Trust (with Scott F Abramson and David B. Carter)
 
