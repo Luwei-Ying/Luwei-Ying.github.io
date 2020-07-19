@@ -5,7 +5,7 @@ permalink: "/research/"
 ---
 
 ## Publications
-* Carter, David B. and Luwei Ying. Forthcoming. "The Gravity of Transnational Terrorism." <i>Journal of Conflict Resolution</i>
+* Carter, David B. and Luwei Ying. Forthcoming. <q>The Gravity of Transnational Terrorism.</q> <i>Journal of Conflict Resolution</i>
 
 <!-- +## Invited to Revise and Resubmit or Under Review+ -->
 ## Under Review
