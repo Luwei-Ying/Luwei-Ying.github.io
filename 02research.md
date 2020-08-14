@@ -5,13 +5,13 @@ permalink: "/research/"
 ---
 
 ## Publications
+* Ying, Luwei. Forthcoming. <q>How State Presence Leads to Civil Conflict.</q> <i>Journal of Conflict Resolution</i>
+
 * Carter, David B. and Luwei Ying. Forthcoming. <q>The Gravity of Transnational Terrorism.</q> <i>Journal of Conflict Resolution</i>
 
 <!-- +## Invited to Revise and Resubmit or Under Review+ -->
 ## Under Review
-* Govern the Ungoverned: How State Presence Leads to Civil Conflict, Revise and Resubmit
-
-* Historical Border Instability and Trust (with Scott F Abramson and David B. Carter)
+* Historical Border Instability and Trust (with Scott F Abramson and David B. Carter), Revise and Resubmit
 
 ## Selected Working Papers
 * Inferring Concepts from Topics: Towards Procedures for Validating Topics as Measures (with Jacob M. Montgomery and Brandon M. Stewart)
