@@ -13,7 +13,9 @@ permalink: "/research/"
 ## Under Review
 * Historical Border Instability and Trust (with Scott F Abramson and David B. Carter), Revise and Resubmit
 
-## Selected Working Papers
 * <a href="/files/yms_validation.pdf">Inferring Concepts from Topics: Towards Procedures for Validating Topics as Measures</a> (with Jacob M. Montgomery and Brandon M. Stewart)
+** software
+
+## Selected Working Papers
 
 * Religiosity and Secularism: A Text-as-Data Approach to Recover Jihadist Groups' Rhetorical Strategies
