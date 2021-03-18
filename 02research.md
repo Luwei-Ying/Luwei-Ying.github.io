@@ -13,7 +13,7 @@ Political scientists and policy-makers have long argued that state weakness lead
 </p>
 </details>
 
-* Carter, David B. and Luwei Ying. Forthcoming. <q>The Gravity of Transnational Terrorism.</q> <i>Journal of Conflict Resolution</i>
+* Carter, David B. and Luwei Ying. 2021. <q>The Gravity of Transnational Terrorism.</q> <i>Journal of Conflict Resolution, 65(4):813-849.</i>
 
 <!-- +## Invited to Revise and Resubmit or Under Review+ -->
 ## Under Review
