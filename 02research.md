@@ -37,4 +37,19 @@ Topic models, as developed in computer science, are effective tools for explorin
 
 ## Selected Working Papers
 
-* Religiosity and Secularism: A Text-as-Data Approach to Recover Jihadist Groups' Rhetorical Strategies
+* New "Weapon of the Weak": Religiosity in Jihadist Propaganda
+<details><summary>Abstract</summary>
+<p>
+Radical religion is the dominant ideology in the most recent wave of terrorism. How do violent groups exploit this ideological "brand" in maintaining their organizations? I theorize that Jihadist propaganda is an essential component of groups' strategies, arguing that jihadi groups increase religious messaging when they face setbacks and shift towards secular messaging as their power increases. This dynamic reflects the fact that groups that are small or facing setbacks must prioritize their core members who advocate radical fundamentalism, while larger or growing groups seek broader support from more secular and less fundamentalist individuals. Empirically, I collect an original database of 121 magazines from 32 Jihadist groups from 1984 to 2019 and use a semi-supervised machine learning algorithm to scale these documents on a "religiosity - secularism" spectrum. Tying this measure to data on violent attacks, I show that the proportion of a group's rhetoric that is religious increases when groups are weaker -- a pattern holds both across groups and over time. I more precisely examine this mechanism leveraging over 18 million tweets from ISIS-related accounts in 2015. This evidence also indicates that group power influences whether groups emphasize religious or secular rhetoric depending on which audience they have incentives to reach. Thus, in sharp contrast to the prevailing view that radical jihadi ideology and violence are bound together, I demonstrate that groups put the most rhetorical emphasis on religion when they carry out fewer attacks because they are weaker.
+</p>
+</details><br />
+
+* Clash of Ideologies? Evidence from US-China Competition in Voting Alignment Formation in the United Nations General Assembly (with Xun Pang)
+<details><summary>Abstract</summary>
+<p>
+The role of ideology in international relations has long been contentious, and thegrand debate is curently centered at whether the US-China competition is only a contest for power or additionally, a clash of ideologies.  The challenge here isto disentangle the role of ideology in shaping nation states’ sincere preferencesand strategic behaviors. This research introduces a formal model of the US-China competition in voting alignment formation in the United Nations GeneralAssembly (UNGA), and then converts the theoretical game into a Bayesian sta-tistical estimator.  Based on data of votes cast by 111 countries on 126 importantresolutions between 2000 and 2014, we find that voting alignments in UNGA fallalong the "democracy-authoritarianism" division line, resulting from the com-petitive buy-in of the US and China.  Evidence further suggests that, apart fromproviding strategic opportunities for forming voting alignments, ideologies alsofundamentally shape preferences of all parties involved: both the US and Chinaprefer political partners with shared values, and ideological inclinations also drivevoting choices of other states. This article thus provides systemic quantitative evidence of how ideology matters in the US-China competition.
+</p>
+</details><br />
+
+
+
