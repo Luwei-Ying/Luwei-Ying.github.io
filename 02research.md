@@ -13,6 +13,11 @@ Political scientists and policy-makers have long argued that state weakness lead
 </details><br /><br />
 
 * Carter, David B. and Luwei Ying. 2021. <q>The Gravity of Transnational Terrorism.</q> <i>Journal of Conflict Resolution, 65(4):813-849.</i>
+&nbsp&nbsp&nbsp<details><summary>Abstract</summary>
+<p>
+Transnational terrorism is an inherently international phenomenon as it involves attacks where the perpetrators are from a different country than the victims. Accordingly, a growing literature explains patterns in transnational attacks with a focus on international variables, for example, the presence of a border wall or alliance patterns. Despite the importance of the topic, no common empirical framework with theoretical basis has emerged to analyze the flows of transnational attacks. We propose that recent versions of the structural gravity model of transnational flows, long the workhorse model in trade economics, can be modified to provide a theoretically motivated model of the flows of transnational terrorist attacks among countries. The gravity model provides several empirical advantages for the study of international variables and transnational terrorism, for example, recent specifications allow the researcher to estimate count models that condition out all time-varying country-level confounders with fixed effects. This facilitates sidestepping the typical problem that any international variables associated with transnational flows are often correlated with omitted or imprecisely measured domestic factors, which draws their estimates into question. Moreover, we demonstrate that the structural gravity model does a much better job in predicting outcomes, particularly when multiple attacks flow across borders.
+</p>
+</details><br /><br />
 
 <!-- +## Invited to Revise and Resubmit or Under Review+ -->
 ## Under Review
