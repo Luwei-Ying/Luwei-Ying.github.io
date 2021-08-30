@@ -4,22 +4,27 @@ title: Teaching
 permalink: "/teaching/"
 ---
 
-## Teaching Assistant, Washington University in St. Louis
-* Graduate Level
+## Teaching Experience
 
-	* Quantitative Political Methodology I (Guillermo Rosas), Spring 2020
+* Teaching Assistant, Washington University in St. Louis
 
-	* Math Camp (Jacob M. Montgomery), Summer 2019/2020
+	* Quantitative Political Methodology I (Guillermo Rosas), Spring 2020, Graduate Level
 
+	* Math Camp (Jacob M. Montgomery), Summer 2019/2020, Graduate Level
 
-* Undergraduate Level
+	* Quantitative Political Methodology (Christopher Lucas), Fall 2019, Undergraduate Level
 
-	* Quantitative Political Methodology (Christopher Lucas), Fall 2019
+	* International Political Economy (Michael Gavin), Spring 2019, Undergraduate Level
 
-	* International Political Economy (Michael Gavin), Spring 2019
+	* Conflict and Security in International Relations (David B. Carter), Fall 2018, Undergraduate Level
 
-	* Conflict and Security in International Relations (David B. Carter), Fall 2018
-
-	* Game Theory (Justin Fox), Spring 2018
+	* Game Theory (Justin Fox), Spring 2018, Undergraduate Level
 	
-	* Political Violence and Ethnic Conflict (Deniz Aksoy), Fall 2017
+	* Political Violence and Ethnic Conflict (Deniz Aksoy), Fall 2017, Undergraduate Level
+
+
+## Evidence of Teaching Effectiveness
+
+<a href="/files/teaching_effectiveness.pdf">Teaching Evaluations</a>
+
+<a href="/files/sample_syllabus.pdf">Sample Syllabus</a>
