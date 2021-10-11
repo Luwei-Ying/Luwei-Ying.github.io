@@ -22,7 +22,7 @@ permalink: "/teaching/"
 	
 	* Ethnic Conflict (Deniz Aksoy), Fall 2017, Undergraduate Level
 
-	* Political Violence (Deniz Aksoy), Fall 2017, Undergraduate Level
+	* Political Violence (Deniz Aksoy), Fall 2017, Graduate Level
 
 
 ## Evidence of Teaching Effectiveness
