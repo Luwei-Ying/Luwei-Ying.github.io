@@ -20,7 +20,9 @@ permalink: "/teaching/"
 
 	* Game Theory (Justin Fox), Spring 2018, Undergraduate Level
 	
-	* Political Violence and Ethnic Conflict (Deniz Aksoy), Fall 2017, Undergraduate Level
+	* Ethnic Conflict (Deniz Aksoy), Fall 2017, Undergraduate Level
+
+	* Political Violence (Deniz Aksoy), Fall 2017, Undergraduate Level
 
 
 ## Evidence of Teaching Effectiveness
