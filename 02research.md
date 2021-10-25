@@ -5,6 +5,13 @@ permalink: "/research/"
 ---
 
 ## Publications
+* Carter, David B., Scott F Abramson, and Luwei Ying. Historical Border Changes, State Building and Contemporary Trust in Europe, <i>American Political Science Review</i>, Conditionally Accepted
+<details><summary>Abstract</summary>
+<p>
+Political borders profoundly influence outcomes central to international politics. Accordingly, a growing literature shows that historical boundaries affect important macro-outcomes such as patterns of interstate disputes and trade. To explain these findings existing theories posit that borders have persistent effects on individual-level behavior, but the literature lacks empirical evidence of such effects. Combining spatial data on centuries of border changes in Europe with a wide range of contemporary survey evidence, we show that historical border changes have persistent effects on two of the most politically significant aspects of behavior:  individuals' political and social trust. We demonstrate that in areas where borders frequently changed, individuals are, on average, less trusting of others as well as their governments. We argue that this occurs because border changes disrupt historical state-building processes and limit the formation of interpersonal social networks, which leads to lower levels of trust.
+</p>
+</details><br />
+
 * Ying, Luwei, Jacob M. Montgomery, and Brandon M. Stewart. forthcoming. <a href="/files/yms_validation.pdf">Topics, Concepts, and Measurement: A Crowdsourced Procedure for Validating Topics as Measures</a> <i>Political Analysis</i>
 <details><summary>Abstract</summary>
 <p>
@@ -27,13 +34,7 @@ Transnational terrorism is an inherently international phenomenon as it involves
 </details><br />
 
 <!-- +## Invited to Revise and Resubmit or Under Review+ -->
-## Under Review
-* Historical Border Instability and Trust (with David B. Carter and Scott F Abramson), Revise and Resubmit, <i>American Political Science Review</i>
-<details><summary>Abstract</summary>
-<p>
-Recent research demonstrates historical international boundaries' long-term effects on important outcomes such as the emergence of territorial disputes and states' trading relationships. This growing literature explains these macro-level results with theory that specifies how individuals in border regions condition their behavior on border institutions in a way that persists across time. However, we lack systematic evidence of historical border institutions' effects on individuals. We argue that historical border changes have persistent effects on contemporary levels of political and social trust, with the deleterious effects of border changes on social networks being a key mechanism. We provide a battery of tests that show that historical border changes in a locality have persistent effects on contemporary levels of individual trust in political institutions and social trust in Europe. Additionally, we provide several pieces of evidence over the role that social networks play in mediating the effect of historical border changes on trust.
-</p>
-</details><br />
+<!-- +## Under Review+ -->
 
 
 ## Selected Working Papers
@@ -52,3 +53,9 @@ The role of ideology in international relations has long been contentious, and t
 </p>
 </details><br />
 
+* Diversity via Coercion: How Historical Displacement Shapes Contemporary Politics (with David B. Carter and Austin L. Wright)
+<details><summary>Abstract</summary>
+<p>
+Coercive mass-scale population relocation is a prominent historical feature of state-building. Regimes move racial, ethnic, or linguistic groups through various means but the most common political dynamic underlying displacement is intent: consolidation of political control. We evaluate the long-run consequences of mass-scale displacement leveraging a historical episode in Afghanistan: the relocation of Pashtun communities during the rule of Emir Abd-al Rahman. This relocation effort was intended to extend the political authority of the Pashtun majority in areas of ethnic diversity in the north. Using historical records, we reconstruct the map of relocated tribes and leverage novel, microlevel survey data on more than 80,000 subjects to study how contemporary attitudes towards the central government, the Taliban, and identity salience differ across co-ethnic communities separated by the Emir's state-building effort more than a century ago. Contrary to prior work, we find that relocated Pashtuns are more critical of the central government <i>and</i> the Taliban yet are more likely to identify as Afghans (relative their ethnic or tribal affiliation). These results survive a battery of robustness checks and clarify the long-run political consequences of mass-scale resettlement in a highly relevant political context. 
+</p>
+</details><br />
