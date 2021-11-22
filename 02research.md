@@ -5,7 +5,7 @@ permalink: "/research/"
 ---
 
 ## Publications
-* Carter, David B., Scott F Abramson, and Luwei Ying. Historical Border Changes, State Building and Contemporary Trust in Europe, <i>American Political Science Review</i>, Conditionally Accepted
+* Carter, David B., Scott F Abramson, and Luwei Ying. forthcoming. Historical Border Changes, State Building and Contemporary Trust in Europe, <i>American Political Science Review</i>
 <details><summary>Abstract</summary>
 <p>
 Political borders profoundly influence outcomes central to international politics. Accordingly, a growing literature shows that historical boundaries affect important macro-outcomes such as patterns of interstate disputes and trade. To explain these findings existing theories posit that borders have persistent effects on individual-level behavior, but the literature lacks empirical evidence of such effects. Combining spatial data on centuries of border changes in Europe with a wide range of contemporary survey evidence, we show that historical border changes have persistent effects on two of the most politically significant aspects of behavior:  individuals' political and social trust. We demonstrate that in areas where borders frequently changed, individuals are, on average, less trusting of others as well as their governments. We argue that this occurs because border changes disrupt historical state-building processes and limit the formation of interpersonal social networks, which leads to lower levels of trust.
