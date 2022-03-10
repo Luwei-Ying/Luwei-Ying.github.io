@@ -2,7 +2,8 @@
 title: Luwei Ying
 email: luwei.ying@wustl.edu
 description: > # this means to ignore newlines until "baseurl:"
-  Ph.D. Candidate, Political Science, WUSTL.\\
+  Ph.D. Candidate, Political Science, WUSTL.
+  
   Incoming Assistant Professor, Political Science, UCLA
 # baseurl: "/" # the subpath of your site, e.g. /blog/
 url: "Luwei-Ying.github.io" # the base hostname & protocol for your site
