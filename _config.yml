@@ -2,9 +2,8 @@
 title: Luwei Ying
 email: ying@ss.ucla.edu
 description: > # this means to ignore newlines until "baseurl:"
-  Incoming Assistant Professor, UCLA\\
-
-  Ph.D., Political Science, WUSTL
+  Incoming Assistant Professor, UCLA
+  
 # baseurl: "/" # the subpath of your site, e.g. /blog/
 url: "Luwei-Ying.github.io" # the base hostname & protocol for your site
 github_username:  Luwei-Ying
