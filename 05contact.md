@@ -13,4 +13,4 @@ St. Louis, Missouri 63130
 
 
 ## E-mail
-luwei.ying@wustl.edu
+ying@ss.ucla.edu
