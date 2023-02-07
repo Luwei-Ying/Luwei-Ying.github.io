@@ -39,14 +39,14 @@ Transnational terrorism is an inherently international phenomenon as it involves
 
 ## Selected Working Papers
 
-* The Unified Strategy of Religious Extremists: Military Power and Ideological Appeals, submitted
+* The Unified Strategy of Religious Extremists: Military Power and Ideological Appeals
 <details><summary>Abstract</summary>
 <p>
 Religious extremism is the dominant ideology among contemporary violent non-state actors. However, we know little about religious extremists' strategy in making ideological appeals. This paper studies jihadi groups' ideology as reflected in propaganda and shows that these groups shift on a "religious vs. secular"  spectrum according to the wax and wane of their military power. Weaker groups must prioritize their core fanatic believers and foreground a more radical religious ideal, while stronger groups seek broader support from more moderate individuals and thus pitch themselves more secularly. I illustrate this dynamic with an original database of 84 magazines published regularly by 38 jihadi groups from 1984 to 2019. Further, I leverage approximately 6 million tweets from 21 thousand ISIS-related accounts in 2015 to examine the jihadists' mobilization efforts regarding different audiences. Overall, in sharp contrast to the prevailing view that radical jihadi ideology and violence are bound together, I demonstrate that groups rhetorically emphasize religion when they carry out fewer attacks.
 </p>
 </details><br />
 
-* Democracy versus Authoritarianism?: How Regime Type Shapes US-China Competition for UNGA Voting Alignment (with Xun Pang), submitted
+* Democracy versus Authoritarianism?: How Regime Type Shapes US-China Competition for UNGA Voting Alignment (with Xun Pang)
 <details><summary>Abstract</summary>
 <p>
 The foreign policy division between democratic and authoritarian countries is one of the most studied cleavages in international politics, and the current discussion centers on whether the great power competition between the United States and China divides the world along regime lines. This paper focuses on the US-China competition in forming voting alignments in the United Nations General Assembly and disentangles the effects of regime type on actions, preferences, and strategic calculations of the rival powers and developing countries. We develop a formal model to theorize the competition and convert the game into a Bayesian statistical estimator. Empirical evidence suggests that the US-China competition increases the democracy/authoritarianism voting cleavage. States' regime-oriented voting or vote-buying choices, however, are not driven by their sincere preferences but by differential strategies shaped by regime type. These findings shed light on the nature of the US-China competition and its implications for the world order.
