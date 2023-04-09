@@ -6,10 +6,11 @@ permalink: "/contact/"
 
 
 ## Address
-Washington University in St. Louis \\
+University of California, Los Angeles\\
 Department of Political Science \\
-Seigle Hall 277\\
-St. Louis, Missouri 63130
+3357 Bunche Hall\\
+Los Angeles, CA 90095
+
 
 
 ## E-mail
