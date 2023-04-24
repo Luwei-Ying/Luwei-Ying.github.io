@@ -36,7 +36,7 @@ Transnational terrorism is an inherently international phenomenon as it involves
 <!-- +## Invited to Revise and Resubmit or Under Review+ -->
 <!-- +## Under Review+ -->
 
-
+<!-- 
 ## Selected Working Papers
 
 * The Unified Strategy of Religious Extremists: Military Power and Ideological Appeals
@@ -59,3 +59,4 @@ The foreign policy division between democratic and authoritarian countries is on
 Coercive mass-scale population relocation is a prominent historical feature of state-building. Regimes move racial, ethnic, or linguistic groups through various means but the most common political dynamic underlying displacement is intent: consolidation of political control. We evaluate the long-run consequences of mass-scale displacement leveraging a historical episode in Afghanistan: the relocation of Pashtun communities during the rule of Emir Abd-al Rahman. This relocation effort was intended to extend the political authority of the Pashtun majority in areas of ethnic diversity in the north. Using historical records, we reconstruct the map of relocated tribes and leverage novel, microlevel survey data on more than 80,000 subjects to study how contemporary attitudes towards the central government, the Taliban, and identity salience differ across co-ethnic communities separated by the Emir's state-building effort more than a century ago. Contrary to prior work, we find that relocated Pashtuns are more critical of the central government <i>and</i> the Taliban yet are more likely to identify as Afghans (relative their ethnic or tribal affiliation). These results survive a battery of robustness checks and clarify the long-run political consequences of mass-scale resettlement in a highly relevant political context. 
 </p>
 </details><br />
+-->
