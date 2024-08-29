@@ -5,6 +5,14 @@ permalink: "/research/"
 ---
 
 ## Publications
+
+* Ying, Luwei. <a href="/files/jihadism.pdf">Military Power and Ideological Appeals of Religious Extremists.</a> <i>Journal of Politics</i>, conditionally accepted (pending replication).
+<details><summary>Abstract</summary>
+<p>
+The proliferation of terrorist propaganda threatens societies worldwide. Yet, we know little about violent extremists' strategy in disseminating their ideologies. This paper studies the ideological appeals of jihadi groups, among the most prominent contemporary conflict movements, and shows how these groups navigate between religious and secular narratives in response to the fluctuations in their military power. Weaker groups must prioritize their core believers and foreground a more radical religious ideal, while stronger groups seek broader support from more moderate individuals and thus pitch themselves more secularly. I illustrate this dynamic with an original database of 87 magazines published regularly by 35 jihadi groups from 1984 to 2019. Further, I leverage approximately 6 million tweets from 21,000 ISIS-related accounts in 2015 to examine the jihadists' mobilization efforts regarding different audiences. Overall, I demonstrate that violent groups put more emphasis on their ideological brand when they are militarily weaker.
+</p>
+</details><br />
+
 * Abramson, Scott F, David B. Carter, and Luwei Ying. 2022. <a href="http://ow.ly/pmZe50Iczcj">Historical Border Changes, State Building, and Contemporary Trust in Europe.</a> <i>American Political Science Review</i>, 116(3), 875-895.
 <details><summary>Abstract</summary>
 <p>
