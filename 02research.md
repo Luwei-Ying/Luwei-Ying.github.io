@@ -6,6 +6,20 @@ permalink: "/research/"
 
 ## Publications
 
+* Wayne , Carly N. and Luwei Ying. <a href="/files/jihadism.pdf">Gateways to White Nationalism: Leaders' Online Rhetoric and Follower Engagement.</a> <i>Journal of Politics</i>, forthcoming.
+<details><summary>Abstract</summary>
+<p>
+White nationalist extremism is an increasingly dangerous global security threat. Yet how white nationalist leaders deploy ideological rhetoric online to sustain and expand their support base remains poorly understood. We theorize that leaders retain a central role in this decentralized movement, using their online platforms to consolidate and grow support through appeals emphasizing distinct elements of white nationalist ideology. To test this theory, we analyze 16,627,018 Twitter and Gab posts (2016–2021) from 64 U.S. white nationalist leaders and 11,303 followers. Our results show that leaders are highly influential: when they highlight specific issues, followers soon post similar content. Moreover, gendered rhetoric serves as a particularly powerful mainstream gateway appeal— even more than partisanship—engaging peripheral followers and prompting followers to post more racialized content. These results reveal how white nationalist leaders shape and market extremist ideology online and build follower networks, with important implications for understanding and disrupting radicalization.
+</p>
+</details><br />
+
+* Carter, David B., Austin L. Wright, and Luwei Ying. <a href="/files/jihadism.pdf">Population Displacement and State-Building: The Legacies of Pashtun Resettlement in Afghanistan</a> <i>International Organization</i>, forthcoming.
+<details><summary>Abstract</summary>
+<p>
+The globalization backlash and the recent success of populist parties in developed countries are typically explained by current economic or cultural grievances. This research note highlights an overlooked historical factor: the frequency of historical border changes in a locality. Using newly compiled post-World War II election data at the NUTS 3 level in Europe and data on five centuries of border changes, we show that localities with greater historical border instability consistently vote for populist parties at higher rates, even when accounting for recent economic conditions. We argue that historical border changes disrupted local state-building processes, leading to entrenched perceptions of poor governance. We corroborate this using survey evidence, and find that individuals in historically unstable areas do not reject democratic principles but express deep dissatisfaction with how democracy is practiced in their country. These results underscore the enduring impact of long-past border disruptions on contemporary politics, suggesting that the contemporary appeal of populism is at least partly explained by the legacies of international politics.
+</p>
+</details><br />
+
 * Ying, Luwei. <a href="/files/jihadism.pdf">Military Power and Ideological Appeals of Religious Extremists.</a> <i>Journal of Politics</i>, forthcoming.
 <details><summary>Abstract</summary>
 <p>
@@ -40,31 +54,3 @@ Political scientists and policy-makers have long argued that state weakness lead
 Transnational terrorism is an inherently international phenomenon as it involves attacks where the perpetrators are from a different country than the victims. Accordingly, a growing literature explains patterns in transnational attacks with a focus on international variables, for example, the presence of a border wall or alliance patterns. Despite the importance of the topic, no common empirical framework with theoretical basis has emerged to analyze the flows of transnational attacks. We propose that recent versions of the structural gravity model of transnational flows, long the workhorse model in trade economics, can be modified to provide a theoretically motivated model of the flows of transnational terrorist attacks among countries. The gravity model provides several empirical advantages for the study of international variables and transnational terrorism, for example, recent specifications allow the researcher to estimate count models that condition out all time-varying country-level confounders with fixed effects. This facilitates sidestepping the typical problem that any international variables associated with transnational flows are often correlated with omitted or imprecisely measured domestic factors, which draws their estimates into question. Moreover, we demonstrate that the structural gravity model does a much better job in predicting outcomes, particularly when multiple attacks flow across borders.
 </p>
 </details><br />
-
-<!-- +## Invited to Revise and Resubmit or Under Review+ -->
-<!-- +## Under Review+ -->
-
-<!-- 
-## Selected Working Papers
-
-* The Unified Strategy of Religious Extremists: Military Power and Ideological Appeals
-<details><summary>Abstract</summary>
-<p>
-Religious extremism is the dominant ideology among contemporary violent non-state actors. However, we know little about religious extremists' strategy in making ideological appeals. This paper studies jihadi groups' ideology as reflected in propaganda and shows that these groups shift on a "religious vs. secular"  spectrum according to the wax and wane of their military power. Weaker groups must prioritize their core fanatic believers and foreground a more radical religious ideal, while stronger groups seek broader support from more moderate individuals and thus pitch themselves more secularly. I illustrate this dynamic with an original database of 84 magazines published regularly by 38 jihadi groups from 1984 to 2019. Further, I leverage approximately 6 million tweets from 21 thousand ISIS-related accounts in 2015 to examine the jihadists' mobilization efforts regarding different audiences. Overall, in sharp contrast to the prevailing view that radical jihadi ideology and violence are bound together, I demonstrate that groups rhetorically emphasize religion when they carry out fewer attacks.
-</p>
-</details><br />
-
-* Democracy versus Authoritarianism?: How Regime Type Shapes US-China Competition for UNGA Voting Alignment (with Xun Pang)
-<details><summary>Abstract</summary>
-<p>
-The foreign policy division between democratic and authoritarian countries is one of the most studied cleavages in international politics, and the current discussion centers on whether the great power competition between the United States and China divides the world along regime lines. This paper focuses on the US-China competition in forming voting alignments in the United Nations General Assembly and disentangles the effects of regime type on actions, preferences, and strategic calculations of the rival powers and developing countries. We develop a formal model to theorize the competition and convert the game into a Bayesian statistical estimator. Empirical evidence suggests that the US-China competition increases the democracy/authoritarianism voting cleavage. States' regime-oriented voting or vote-buying choices, however, are not driven by their sincere preferences but by differential strategies shaped by regime type. These findings shed light on the nature of the US-China competition and its implications for the world order.
-</p>
-</details><br />
-
-* Diversity via Coercion: How Historical Displacement Shapes Contemporary Politics (with David B. Carter and Austin L. Wright)
-<details><summary>Abstract</summary>
-<p>
-Coercive mass-scale population relocation is a prominent historical feature of state-building. Regimes move racial, ethnic, or linguistic groups through various means but the most common political dynamic underlying displacement is intent: consolidation of political control. We evaluate the long-run consequences of mass-scale displacement leveraging a historical episode in Afghanistan: the relocation of Pashtun communities during the rule of Emir Abd-al Rahman. This relocation effort was intended to extend the political authority of the Pashtun majority in areas of ethnic diversity in the north. Using historical records, we reconstruct the map of relocated tribes and leverage novel, microlevel survey data on more than 80,000 subjects to study how contemporary attitudes towards the central government, the Taliban, and identity salience differ across co-ethnic communities separated by the Emir's state-building effort more than a century ago. Contrary to prior work, we find that relocated Pashtuns are more critical of the central government <i>and</i> the Taliban yet are more likely to identify as Afghans (relative their ethnic or tribal affiliation). These results survive a battery of robustness checks and clarify the long-run political consequences of mass-scale resettlement in a highly relevant political context. 
-</p>
-</details><br />
--->
